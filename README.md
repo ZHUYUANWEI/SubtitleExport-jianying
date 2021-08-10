@@ -8,4 +8,4 @@
 ### 路径：C:\Users\Administrator\AppData\Local\JianyingPro\User Data\Projects\com.lveditor.draft\202108091029
 ### 注意：AppData文件夹是隐藏文件夹，需要显示后才可以看到、选择，具体可以百度“如何显示隐藏文件夹”
 
-> 注意：此文件仅供学习使用，如有问题请联系我删除
+> 注意：此文件仅供学习使用，如有任何问题请联系我删除
